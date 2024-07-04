@@ -52,15 +52,15 @@
 
 
 //let’s understand the while loop and try to update the iterator as an expression.
-#include <iostream>
-using namespace std;
-int main(){
-    int n=18;
-    int i=n,a=0;
-    while (i>0){
-        cout<<a<<' ';
-        a=a+i;
-        i=i/2;
-    }
-    return 0;
-}
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int n=18;
+//     int i=n,a=0;
+//     while (i>0){
+//         cout<<a<<' ';
+//         a=a+i;
+//         i=i/2;
+//     }
+//     return 0;
+// }
